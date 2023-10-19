@@ -1,5 +1,4 @@
 
-```markdown
 ### Problem: Missing Number in Array
 
 **Problem Statement:**
@@ -39,6 +38,4 @@ You are given an array of size N-1, where N is the size of the array, and it con
 Please note that this solution is specifically designed for the Geeks for Geeks platform, as it relies on predefined input and test cases provided by Geeks for Geeks. It may not work in other code editors or environments.
 
 Happy coding and best of luck with your Geeks for Geeks practice!
-```
 
-You can copy and paste this entire section into the README.md file of your "Missing Number in Array" problem folder within your repository. Please customize it as needed to match the formatting and style of your repository.
