@@ -15,6 +15,8 @@ A[] = {1, 2, 3, 7, 5}
 Output:
 Subarray with sum 12 is found from index 2 to 4.
 
+
+**Function Signature:**
 ```cpp
   vector<int> subarraySum(vector<int> arr, int n, long long s)
 ```
